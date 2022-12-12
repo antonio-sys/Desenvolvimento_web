@@ -1,0 +1,60 @@
+#body{
+
+background-color: rgba(56, 116, 116, 0.712);;
+background-image: url(../site_html/imagens/sky.jpg);
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+
+}
+
+.container{
+    font-family: "arial black";
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+
+
+#esquerdo{
+
+    display: block;
+    float: left;
+
+
+
+}
+
+#text{
+
+    font-family: "arial black";
+    text-align: center;
+font-size: 40px;
+height: 350px;
+
+
+}
+
+#esquerdodois{
+
+
+   float: left;
+    background-color: rgb(145, 108, 60);
+ 
+
+    
+    }
+    
+    #text2{
+    
+        font-family: "arial black";
+        text-align: center;
+    font-size: 50px;
+    
+    }
+
+
+
+
